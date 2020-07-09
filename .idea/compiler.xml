@@ -9,8 +9,8 @@
         <module name="sparkjavadocker" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11">
-      <module name="sparkjavadocker" target="11" />
+    <bytecodeTargetLevel target="14">
+      <module name="sparkjavadocker" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>
